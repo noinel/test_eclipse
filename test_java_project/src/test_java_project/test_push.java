@@ -2,9 +2,12 @@ package test_java_project;
 
 public class test_push {
 
-	public static void main(String[] args) {
-		System.out.println("i'm local~!");
-
+	
+		void func() {
+			System.out.println("modify at github(server)");
+			System.out.println("i'm local~!");	
+	
+		
 	}
 
 }
